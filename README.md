@@ -1,4 +1,4 @@
-LeetCode-Joueney 项目主要是用于记录刷题轨迹。
+LeetCode-Journey 项目主要是用于记录刷题轨迹。
 在不断完善中...
 
 ## 项目结构
